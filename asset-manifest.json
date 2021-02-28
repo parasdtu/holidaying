@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/holidaying/static/css/main.6ed39131.chunk.css",
+    "main.js": "/holidaying/static/js/main.b1113f94.chunk.js",
+    "main.js.map": "/holidaying/static/js/main.b1113f94.chunk.js.map",
+    "runtime-main.js": "/holidaying/static/js/runtime-main.f0e2e999.js",
+    "runtime-main.js.map": "/holidaying/static/js/runtime-main.f0e2e999.js.map",
+    "static/js/2.7f3818e9.chunk.js": "/holidaying/static/js/2.7f3818e9.chunk.js",
+    "static/js/2.7f3818e9.chunk.js.map": "/holidaying/static/js/2.7f3818e9.chunk.js.map",
+    "index.html": "/holidaying/index.html",
+    "precache-manifest.1eb0b1ae6e65bf5f82a267b8acbe6543.js": "/holidaying/precache-manifest.1eb0b1ae6e65bf5f82a267b8acbe6543.js",
+    "service-worker.js": "/holidaying/service-worker.js",
+    "static/css/main.6ed39131.chunk.css.map": "/holidaying/static/css/main.6ed39131.chunk.css.map",
+    "static/js/2.7f3818e9.chunk.js.LICENSE.txt": "/holidaying/static/js/2.7f3818e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0e2e999.js",
+    "static/js/2.7f3818e9.chunk.js",
+    "static/css/main.6ed39131.chunk.css",
+    "static/js/main.b1113f94.chunk.js"
+  ]
+}
